@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "axios-retry": "^3.9.1",
+    "cli-progress": "^3.12.0",
+    "prompt-sync": "^4.2.0",
+    "secretjs": "^1.12.3"
+  },
+  "name": "killroy-was-here-downloader",
+  "description": "Used to download your copy of the film Killroy Was Here using your KWH NFT private metadata.",
+  "version": "1.0.0",
+  "main": "killroy_was_here_downloader.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D. Rex",
+  "license": "CC0-1.0"
+}
