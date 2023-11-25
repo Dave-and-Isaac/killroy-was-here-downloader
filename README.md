@@ -11,16 +11,37 @@ This script is designed to make the download of your Killroy Was Here nft privat
 
 ## Prerequisites:
 
-Killroy token id
 personal wallet address
+Killroy token id
 viewing key
 
-The token id is the number of your killroy
-<img src="./images/token_id.png" alt="token_id" width="100%"/> 
 
 The personal wallet address the the wallet that contains your nft not the collection address.
 
+On killroywashere.io you can view the wallet address clicking here.
+<img src="./images/wallet_address_kwh.png" alt="wallet_address_kwh" width="100%"/> 
+
+On stashh.io you can view the wallet address by clicking on your profile and clicking the wallet address here.
+<img src="./images/wallet_address_stashh.png" alt="wallet_address_stashh" width="100%"/> 
+
+
+The token id is the number of your killroy
+
+On killroywashere.io in 'My Collection' you can view the token id here.
+<img src="./images/token_id_kwh.png" alt="token_id_kwh" width="100%"/> 
+
+On stashh.io you can view the token id here.
+<img src="./images/token_id_stashh.png" alt="token_id_stashh" width="100%"/> 
+
 The viewing key can easily be made on stashh.io, open your token on stashh.io and click the key on the top right corner and create viewing key.
+
+On stashh.io you can create a viewing key for your token.
+1. click on the key
+<img src="./images/create_viewing_key_1.png" alt="create_viewing_key_1" width="100%"/> 
+2. use create viewing key option
+<img src="./images/create_viewing_key_2.png" alt="create_viewing_key_2" width="100%"/> 
+3. make sure to save your newly created viewing key somewhere you won't lose it before clicking approve.
+<img src="./images/create_viewing_key_3.png" alt="create_viewing_key_3" width="100%"/> 
 
 ## Install instructions:
 
