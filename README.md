@@ -16,6 +16,7 @@ personal wallet address
 viewing key
 
 The token id is the number of your killroy
+<img src="./images/token_id.jpg" alt="token_id" width="100%"/> 
 
 The personal wallet address the the wallet that contains your nft not the collection address.
 
