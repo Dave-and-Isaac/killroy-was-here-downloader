@@ -16,7 +16,7 @@ This script is designed to make the download of your Killroy Was Here nft privat
 - Your Killroy token viewing key
 
 
-### The personal wallet address the the wallet that contains your nft not the collection address.
+### The personal wallet address is the wallet that contains your nft not the collection address.
 
 On killroywashere.io you can view the wallet address clicking here.
 
