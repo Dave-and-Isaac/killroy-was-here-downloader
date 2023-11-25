@@ -2,10 +2,10 @@
 Used to download your copy of the film Killroy Was Here using your KWH NFT private metadata.
 
 REQUIREMENTS:
-node
-npm
-7zip, winrar, or other archive extraction software (for unzipping full movie download)
-ffmpeg (for teaser download only)
+- node
+- npm
+- 7zip, winrar, or other archive extraction software (for unzipping full movie download)
+- ffmpeg (for teaser download only)
 
 This script is designed to make the download of your Killroy Was Here nft private data easier. Providing a simple download soloution for the full film and unique teaser.
 
