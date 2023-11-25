@@ -51,7 +51,6 @@ async function start() {
 }
 
 async function enterUserTokenInfo() {
-  // Step 1: Check if the user wants to download the movie
   const walletAddressEntry = userPrompt('Please enter your wallet address: ');
   walletAddress = walletAddressEntry;
   const tokenIdEntry = userPrompt('Please enter your Killroy token id: ');
