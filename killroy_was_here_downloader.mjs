@@ -240,8 +240,10 @@ async function downloadTeaser() {
   });
 
   // Handle the close event
-  ffmpegProcess.on('close', (code) => {
+  ffmpegProcess.on('close', async (code) => {
     if (code === 0) {
+      await fsPromise.unlink(`./${chapterName}.m3u8`);
+      console.log(`${chapterName}.m3u8 deleted successfully`);
       console.log(`<downloadTeaser> ${chapterName}.mp4 has been saved successfully`);
     } else {
       console.error(`<downloadTeaser> ffmpeg process exited with code ${code}`);
