@@ -7,13 +7,13 @@ REQUIREMENTS:
 - 7zip, winrar, or other archive extraction software (for unzipping full movie download)
 - ffmpeg (for teaser download only)
 
-This script is designed to make the download of your Killroy Was Here nft private data easier. Providing a simple download soloution for the full film and unique teaser.
+This script is designed to make the download of your Killroy Was Here nft private data easier. Providing a simple download solution for the full film and unique teaser.
 
 ## Prerequisites:
 
-- Your personal wallet address
-- Your Killroy token id
-- Your Killroy token viewing key
+- Your personal wallet address (containing your Killroy nft)
+- Your Killroy token id (numeric value of your Killroy nft)
+- Your Killroy token viewing key (created at the time of purchase, easily recreated to run this script if you don't have the current one.)
 
 
 ### The personal wallet address is the wallet that contains your nft not the collection address.
